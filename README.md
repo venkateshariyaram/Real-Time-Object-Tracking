@@ -43,9 +43,3 @@ The system processes video frames using an object detection model and a tracking
 5. Assign and maintain tracking IDs
 6. Display real-time tracking results
 
-## Future Improvements
-
-- Multi-camera object tracking
-- Improved accuracy using transformer-based models
-- Cloud-based real-time analytics
-- Edge device optimization
